@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Rashidinejad Meibodi"
+    given-names: "Arya"
+  - family-names: "Gholamali Sinaki"
+    given-names: "Mahbod"
+title: "IRL-Based-SDRE: MATLAB Code for Integral Reinforcement Learning SDRE Control"
+version: "v1.0"
+date-released: 2025-11-23  # Today's date
+url: "https://github.com/ariarsh/IRL-Based-SDRE"
+abstract: "MATLAB implementation of uncontrolled, classical SDRE, and IRL-based SDRE controllers for nonlinear system regulation. Accompanies the paper 'Optimal Regulation of Nonlinear Input-Affine
+Systems via an Integral Reinforcement
+Learning–Based State-Dependent Riccati Equation
+Approach'."
+repository-code: "https://github.com/ariarsh/IRL-Based-SDRE"
