@@ -15,6 +15,7 @@ This repository contains three clean, reproducible scripts that clearly compare:
 
 ### System
 ẋ₁ = (1 − x₁²)x₁ + x₂ + u
+
 ẋ₂ = (1 + x₁x₂)x₁ − x₂ + u
 
 B = [1; 1], Q = I₂×₂, R = 1  
