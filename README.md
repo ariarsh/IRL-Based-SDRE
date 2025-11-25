@@ -3,7 +3,7 @@
 
 MATLAB implementation accompanying the paper  
 **"Extension of the State-Dependent Riccati Equation Method using Integral Reinforcement Learning"**  
-(Your Name & Co-author, 2025–2026)
+(Aria Rashidinejad Meibodi & Mahbod Gholamali Sinaki, 2024–2025)
 
 This repository contains three clean, reproducible scripts that clearly compare:
 
